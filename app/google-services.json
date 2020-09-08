@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "272017294939",
+    "firebase_url": "https://cukurinapp.firebaseio.com",
+    "project_id": "cukurinapp",
+    "storage_bucket": "cukurinapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:272017294939:android:98d42ceb2a14b8b6",
+        "android_client_info": {
+          "package_name": "com.cukurin.barber"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "272017294939-2ejsqs0afuat6pq53req2eek2k3gujnn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDb26HojBEcnEyLnAcBcpq4TSJ0JynZjY0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "272017294939-2ejsqs0afuat6pq53req2eek2k3gujnn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
